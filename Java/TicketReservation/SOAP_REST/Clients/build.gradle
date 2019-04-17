@@ -1,0 +1,95 @@
+
+buildscript {
+    repositories {
+        maven {
+            url "http://dl.bintray.com/barryearles/maven"
+        }
+    }
+
+    dependencies {
+        classpath "com.github.paralleltasks:parallel-tasks-gradle-plugin:1.0.1"
+    }
+}
+
+
+plugins {
+    id 'org.springframework.boot' version '2.1.0.RELEASE'
+}
+
+//help for Java
+apply plugin: 'java-library'
+
+//parallel task plugin for gradle
+apply plugin: 'com.github.paralleltasks'
+
+// spring-boot run plugin
+apply plugin: 'io.spring.dependency-management'
+
+configurations {
+    jaxws
+}
+
+dependencies {
+    jaxws 'com.sun.xml.ws:jaxws-tools:2.1.4'
+}
+
+group 'clients'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+    maven { url 'http://download.java.net/maven/1' }
+    maven { url 'http://download.java.net/maven/2' }
+    google()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    api 'org.apache.commons:commons-math3:3.6.1'
+}
+
+
+
+
+task wsimport {
+    doLast {
+
+        ant {
+            taskdef(name:'wsimport',
+                    classname:'com.sun.tools.ws.ant.WsImport',
+                    classpath:configurations.jaxws.asPath)
+            wsimport(keep:true,
+                    package: 'clients',
+                    destdir: "${projectDir}/src/main/java",
+                    sourcedestdir: "${projectDir}/src/main/java",
+                    wsdl:'http://localhost:8090/servers/SOAPServerInterface?wsdl')
+        }
+    }
+}
+compileJava.dependsOn(wsimport)
+
+task runRESTClient(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main = "clients.Login"
+}
+
+
+
+task runSOAPClient(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main = "clients.Logins"
+}
+
+
+parallelTasks {
+    taskNames = [
+            "runSOAPClient",
+            "runRESTClient",
+            "bootRun"  // Task provided by "spring-boot" gradle plugin (e.g. apply plugin: 'spring-boot')
+    ]
+}
+
+
+apply plugin: 'java'

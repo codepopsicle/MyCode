@@ -1,0 +1,8 @@
+
+ AWS RDS Database URL without SSL: mysql://whizzbuy:whizzbuy@whizzbuy.c1vkqotq7mru.us-west-2.rds.amazonaws.com/whizzbuy
+ AWS RDS Database URL with SSL: mysql://whizzbuy:whizzbuy@whizzbuy.c1vkqotq7mru.us-west-2.rds.amazonaws.com/whizzbuy?sslca=config/rds-combined-ca-bundle.pem -a afternoon-shore-6441
+
+ 
+ whizzbuytest.c1vkqotq7mru.us-west-2.rds.amazonaws.com:3306
+ 
+ mysql://whizzbuytest:whizzbuytest@whizzbuytest.c1vkqotq7mru.us-west-2.rds.amazonaws.com/whizzbuytest?sslca=config/rds-combined-ca-bundle.pem -a whizzbuytest

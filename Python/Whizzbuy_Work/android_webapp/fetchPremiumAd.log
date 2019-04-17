@@ -1,0 +1,639 @@
+[2015-12-27 14:58:02,344] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 14:58:02,500] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 14:58:02,572] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 14:58:29,428] {fetch_premium_ad.py:68} ERROR - (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SELECT Count FROM AdCount WHERE Type = '1')' at line 4")
+[2015-12-27 14:58:29,554] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 14:58:29] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 14:59:34,080] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 14:59:34,097] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 14:59:34,245] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 14:59:34,255] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 14:59:36,940] {fetch_premium_ad.py:68} ERROR - (1146, "Table 'whizzbuy.ProdPremiumAdList' doesn't exist")
+[2015-12-27 14:59:36,942] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 14:59:36] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:00:17,481] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:00:17,506] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:00:17,675] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:00:17,678] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:00:20,531] {fetch_premium_ad.py:68} ERROR - (1146, "Table 'whizzbuy.AdList' doesn't exist")
+[2015-12-27 15:00:20,608] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:00:20] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:00:39,780] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:00:39,804] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:00:39,973] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:00:39,976] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:00:42,121] {fetch_premium_ad.py:68} ERROR - (1146, "Table 'whizzbuy.adlist' doesn't exist")
+[2015-12-27 15:00:42,123] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:00:42] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:01:24,189] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:01:24,212] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:01:24,360] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:01:24,363] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:01:28,538] {fetch_premium_ad.py:68} ERROR - (1054, "Unknown column 'TypeMarker' in 'where clause'")
+[2015-12-27 15:01:28,539] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:01:28] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:01:30,912] {fetch_premium_ad.py:68} ERROR - (1054, "Unknown column 'TypeMarker' in 'where clause'")
+[2015-12-27 15:01:30,986] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:01:30] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:03:05,809] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:03:05,826] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:03:05,986] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:03:05,989] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:03:36,123] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:03:36,147] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:03:36,339] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:03:36,342] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:03:42,234] {fetch_premium_ad.py:64} ERROR - No review found
+[2015-12-27 15:03:42,236] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:03:42] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:05:06,743] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:05:06,765] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:05:06,924] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:05:06,927] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-27 15:05:09,755] {fetch_premium_ad.py:64} ERROR - No review found
+[2015-12-27 15:05:09,757] {_internal.py:87} INFO - 127.0.0.1 - - [27/Dec/2015 15:05:09] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-27 15:06:06,195] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-27 15:06:06,219] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-27 15:06:06,386] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-27 15:06:06,389] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:26:44,855] {fetch_premium_ad.py:64} ERROR - No ads found
+[2015-12-28 13:26:45,301] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 13:26:45] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-28 13:28:14,344] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-28 13:28:14,686] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:28:18,099] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:28:18,123] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:34:08,078] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 13:34:08] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-28 13:36:12,257] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-28 13:36:12,341] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:37:23,278] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:37:23,435] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:37:23,444] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:40:15,324] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:40:15,521] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:40:15,548] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:54:49,777] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-28 13:54:49,914] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:54:51,174] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:54:51,191] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:54:54,431] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 13:54:54] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-28 13:55:04,408] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchPremiumAd/fetch_premium_ad.py', reloading
+[2015-12-28 13:55:04,610] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:55:04,767] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:55:04,785] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:59:29,986] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/server.py', reloading
+[2015-12-28 13:59:30,004] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:59:30,186] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:59:30,188] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:59:43,251] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 13:59:43,486] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 13:59:43,489] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 13:59:59,423] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 13:59:59] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-28 14:00:17,154] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 14:00:17] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-28 14:01:21,926] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchStandardAd/fetch_standard_ad.py', reloading
+[2015-12-28 14:01:21,948] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 14:01:22,103] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 14:01:22,106] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 14:02:12,339] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchStandardAd/fetch_standard_ad.py', reloading
+[2015-12-28 14:02:12,360] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 14:02:12,514] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 14:02:12,517] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 14:02:21,572] {_internal.py:87} INFO -  * Detected change in '/home/murtaza/Documents/Transferret/APIs/FetchStandardAd/fetch_standard_ad.py', reloading
+[2015-12-28 14:02:21,595] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 14:02:21,755] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 14:02:21,758] {_internal.py:87} INFO -  * Debugger pin code: 678-916-927
+[2015-12-28 14:05:39,538] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 14:05:39] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-28 22:42:14,898] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 22:42:15,305] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 22:42:15,305] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-28 23:56:10,737] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-28 23:56:11,134] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-28 23:56:11,134] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-28 23:59:33,328] {fetch_premium_ad.py:80} ERROR - (1146, "Table 'whizzbuy.advertlist' doesn't exist")
+[2015-12-28 23:59:33,332] {_internal.py:87} INFO - 127.0.0.1 - - [28/Dec/2015 23:59:33] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-29 00:00:11,878] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\server.py', reloading
+[2015-12-29 00:00:11,940] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:00:12,315] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:00:12,315] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:00:17,681] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:00:17] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-29 00:01:37,178] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\FetchPremiumAd\\fetch_premium_ad.py', reloading
+[2015-12-29 00:01:37,259] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:01:37,740] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:01:37,740] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:01:39,680] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:01:39] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-29 00:01:54,496] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\FetchStandardAd\\fetch_standard_ad.py', reloading
+[2015-12-29 00:01:54,559] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:01:54,964] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:01:54,964] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:02:07,085] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:02:07] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:05:56,428] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\FetchPremiumAd\\fetch_premium_ad.py', reloading
+[2015-12-29 00:05:56,506] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:05:56,990] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:05:56,990] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:05:58,039] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\FetchStandardAd\\fetch_standard_ad.py', reloading
+[2015-12-29 00:05:58,101] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:05:58,539] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:05:58,539] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:27:43,714] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\FetchStandardAd\\fetch_standard_ad.py', reloading
+[2015-12-29 00:27:43,855] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:27:44,295] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:27:44,295] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:28:24,401] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:28:24] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:30:51,558] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:30:51] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:31:06,104] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:31:06] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:31:26,471] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:31:26] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-29 00:32:03,596] {fetch_premium_ad.py:76} ERROR - No ads found
+[2015-12-29 00:32:03,601] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:32:03] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-29 00:32:29,640] {fetch_standard_ad.py:75} ERROR - No ads found
+[2015-12-29 00:32:29,645] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:32:29] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:33:23,276] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:33:23,635] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:33:23,635] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:35:07,848] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\server.py', reloading
+[2015-12-29 00:35:07,914] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:35:57,316] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:35:57,707] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:35:57,707] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:36:17,934] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:36:17] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:36:39,742] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:36:39] "POST /createcustomer HTTP/1.1" 200 -
+[2015-12-29 00:37:02,970] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:37:02] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:42:33,665] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:42:33] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:42:39,519] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:42:39] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:42:43,838] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:42:43] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:42:44,079] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:42:44] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:43:21,594] {fetch_standard_ad.py:75} ERROR - No ads found
+[2015-12-29 00:43:21,596] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:43:21] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-29 00:45:42,605] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\createcustomer\\create_customer.py', reloading
+[2015-12-29 00:45:42,703] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:45:43,118] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:45:43,118] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:45:47,848] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:45:47] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:45:52,839] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:45:52] "POST /createcustomer HTTP/1.1" 200 -
+[2015-12-29 00:46:01,359] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:46:01] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:47:19,352] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\createcustomer\\create_customer.py', reloading
+[2015-12-29 00:47:19,418] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:47:19,974] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:47:19,974] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:48:33,502] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 00:48:33] "POST /forgotpasswordOTPgen HTTP/1.1" 200 -
+[2015-12-29 00:49:14,180] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\createcustomer\\create_customer.py', reloading
+[2015-12-29 00:49:14,253] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:49:14,786] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:49:14,788] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 00:49:22,144] {_internal.py:87} INFO -  * Detected change in 'C:\\Python27\\APIs (5)\\APIs\\server.py', reloading
+[2015-12-29 00:49:22,217] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 00:49:22,625] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 00:49:22,627] {_internal.py:87} INFO -  * Debugger pin code: 895-991-654
+[2015-12-29 22:54:55,427] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-29 22:54:55,881] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-29 22:54:55,881] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-29 22:55:28,940] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 22:55:28] "POST /createcustomer HTTP/1.1" 200 -
+[2015-12-29 22:56:17,428] {verify_otp.py:91} ERROR - Verification unsuccessful
+[2015-12-29 22:56:17,433] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 22:56:17] "POST /verifyotp HTTP/1.1" 200 -
+[2015-12-29 22:56:27,102] {verify_otp.py:91} ERROR - Verification unsuccessful
+[2015-12-29 22:56:27,107] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 22:56:27] "POST /verifyotp HTTP/1.1" 200 -
+[2015-12-29 22:56:42,359] {_internal.py:87} INFO - 127.0.0.1 - - [29/Dec/2015 22:56:42] "POST /verifyotp HTTP/1.1" 200 -
+[2015-12-31 13:24:25,765] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 13:24:26,210] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 13:24:26,211] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 13:24:27,365] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:24:27] "POST /fetchtransactionhistory HTTP/1.1" 200 -
+[2015-12-31 13:43:08,703] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:43:08] "POST /fetchtransactionhistory HTTP/1.1" 200 -
+[2015-12-31 13:47:46,237] {fetch_transaction_history_list.py:110} ERROR - No item bill found
+[2015-12-31 13:47:46,240] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:47:46] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 13:50:47,611] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:50:47] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 13:50:59,648] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:50:59] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 13:53:44,673] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:53:44] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 13:58:11,729] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistoryList\\fetch_transaction_history_list.py', reloading
+[2015-12-31 13:58:11,835] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 13:58:12,290] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 13:58:12,292] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 13:58:22,486] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:58:22] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 13:59:47,017] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistoryList\\fetch_transaction_history_list.py', reloading
+[2015-12-31 13:59:47,127] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 13:59:47,561] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 13:59:47,561] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 13:59:50,813] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 13:59:50] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 14:04:40,882] {fetch_premium_ad.py:76} ERROR - No ads found
+[2015-12-31 14:04:40,885] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 14:04:40] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2015-12-31 14:04:45,772] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 14:04:45] "POST /fetchstandardad HTTP/1.1" 200 -
+[2015-12-31 14:04:53,575] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 14:04:53] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 14:05:45,138] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistoryList\\fetch_transaction_history_list.py', reloading
+[2015-12-31 14:05:45,232] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 14:05:45,747] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 14:05:45,747] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 14:05:49,005] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 14:05:49] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 14:06:58,734] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistoryList\\fetch_transaction_history_list.py', reloading
+[2015-12-31 14:06:58,826] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 14:06:59,342] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 14:06:59,342] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 14:07:01,858] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 14:07:01] "POST /fetchtransactionhistorylist HTTP/1.1" 200 -
+[2015-12-31 21:58:10,667] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 21:58:11,181] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 21:58:11,184] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 21:58:13,831] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 21:58:13] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:01:27,144] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:01:27] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:07:05,671] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2015-12-31 22:07:05,858] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 22:07:06,575] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 22:07:06,575] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 22:07:11,752] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:07:11] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:07:47,288] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2015-12-31 22:07:47,381] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 22:07:47,851] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 22:07:47,851] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 22:07:53,645] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:07:53] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:08:21,224] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2015-12-31 22:08:21,319] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 22:08:21,819] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 22:08:21,835] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 22:08:31,134] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:08:31] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:09:17,546] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:09:17] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:12:16,433] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\server.py', reloading
+[2015-12-31 22:12:16,526] {_internal.py:87} INFO -  * Restarting with stat
+[2015-12-31 22:12:16,980] {_internal.py:87} WARNING -  * Debugger is active!
+[2015-12-31 22:12:16,980] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2015-12-31 22:12:28,217] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:12:28] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:13:04,648] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:13:04] "POST /storelocator HTTP/1.1" 200 -
+[2015-12-31 22:13:33,431] {_internal.py:87} INFO - 127.0.0.1 - - [31/Dec/2015 22:13:33] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-02 22:39:30,107] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-02 22:39:30,513] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-02 22:39:30,513] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-02 22:39:43,323] {_internal.py:87} INFO - 127.0.0.1 - - [02/Jan/2016 22:39:43] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-02 22:43:31,503] {_internal.py:87} INFO - 127.0.0.1 - - [02/Jan/2016 22:43:31] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-03 20:32:58,194] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2016-01-03 20:32:59,128] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-03 20:33:10,382] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-03 20:33:10,382] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-03 21:30:53,473] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-03 21:30:53,957] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-03 21:30:53,957] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-03 21:30:58,625] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:30:58] "POST /FetchAllLifestyle HTTP/1.1" 200 -
+[2016-01-03 21:31:04,265] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:31:04] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-03 21:31:37,197] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\lifestyle\\life_style.py', reloading
+[2016-01-03 21:31:37,289] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-03 21:31:37,930] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-03 21:31:37,947] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-03 21:31:50,107] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:31:50] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-03 21:31:58,907] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:31:58] "POST /FetchAllLifestyle HTTP/1.1" 200 -
+[2016-01-03 21:32:38,966] {server.py:31} ERROR - Page not found: /CountdownTimer
+[2016-01-03 21:32:39,134] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:32:39] "POST /CountdownTimer HTTP/1.1" 4044 -
+[2016-01-03 21:34:13,579] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\server.py', reloading
+[2016-01-03 21:34:13,720] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-03 21:34:14,331] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-03 21:34:14,345] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-03 21:34:24,285] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:34:24] "POST /CountdownTimer HTTP/1.1" 200 -
+[2016-01-03 21:36:19,470] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\CountDownTimer\\Countdown_Timer.py', reloading
+[2016-01-03 21:36:19,611] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-03 21:36:20,461] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-03 21:36:20,461] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-03 21:36:21,405] {_internal.py:87} INFO - 127.0.0.1 - - [03/Jan/2016 21:36:21] "POST /CountdownTimer HTTP/1.1" 200 -
+[2016-01-04 19:46:48,576] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-04 19:46:49,338] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-04 19:46:49,338] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-04 19:46:55,480] {_internal.py:87} INFO - 127.0.0.1 - - [04/Jan/2016 19:46:55] "POST /fetchcustomerlifestyle HTTP/1.1" 200 -
+[2016-01-04 19:47:14,058] {_internal.py:87} INFO - 127.0.0.1 - - [04/Jan/2016 19:47:14] "POST /postcustomerlifestyle HTTP/1.1" 200 -
+[2016-01-04 19:47:17,900] {_internal.py:87} INFO - 127.0.0.1 - - [04/Jan/2016 19:47:17] "POST /fetchcustomerlifestyle HTTP/1.1" 200 -
+[2016-01-09 02:19:29,226] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-09 02:19:29,911] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-09 02:19:29,911] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-09 02:28:32,101] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\Login\\login.py', reloading
+[2016-01-09 02:28:32,273] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-09 02:28:33,117] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-09 02:28:33,117] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-09 02:55:06,384] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\Login\\login.py', reloading
+[2016-01-09 02:55:06,447] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-09 02:55:13,753] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-09 02:55:13,753] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 21:15:58,845] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 21:15:59,230] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 21:15:59,230] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 21:17:08,651] {_internal.py:87} INFO - 127.0.0.1 - - [14/Jan/2016 21:17:08] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-14 22:37:05,339] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:37:05,700] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:37:05,700] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:37:14,542] {_internal.py:87} INFO - 127.0.0.1 - - [14/Jan/2016 22:37:14] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-14 22:38:18,440] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2016-01-14 22:38:18,674] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:38:19,096] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:38:19,096] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:38:21,805] {_internal.py:87} INFO - 127.0.0.1 - - [14/Jan/2016 22:38:21] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-14 22:43:40,273] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\server.py', reloading
+[2016-01-14 22:43:40,351] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:43:40,881] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:43:40,881] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:43:50,098] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\server.py', reloading
+[2016-01-14 22:43:50,161] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:43:50,645] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:43:50,645] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:45:25,509] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\AddToCart\\addto_cart.py', reloading
+[2016-01-14 22:45:25,572] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:45:26,040] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:45:26,040] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:46:01,710] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\ChangePassword\\change_password.py', reloading
+[2016-01-14 22:46:01,772] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:46:02,230] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:46:02,230] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:46:26,055] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\ChangePassword\\change_password.py', reloading
+[2016-01-14 22:46:26,118] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:46:26,479] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:46:26,493] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:46:53,533] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\CountDownTimer\\Countdown_Timer.py', reloading
+[2016-01-14 22:46:53,674] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:46:54,158] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:46:54,158] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:47:19,220] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\CountDownTimer\\Countdown_Timer.py', reloading
+[2016-01-14 22:47:19,298] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:47:19,673] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:47:19,673] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:49:18,571] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchPremiumAd\\fetch_premium_ad.py', reloading
+[2016-01-14 22:49:18,648] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:49:19,134] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:49:19,134] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:49:55,638] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchProfileInfo\\fetch_profile.py', reloading
+[2016-01-14 22:49:55,716] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:49:56,184] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:49:56,184] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:50:23,286] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchReview\\fetch_review.py', reloading
+[2016-01-14 22:50:23,378] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:50:23,753] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:50:23,753] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:51:17,848] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchStandardAd\\fetch_standard_ad.py', reloading
+[2016-01-14 22:51:17,910] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:51:18,316] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:51:18,316] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:52:42,848] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistory\\fetch_transaction_history.py', reloading
+[2016-01-14 22:52:42,926] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:52:43,301] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:52:43,301] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 22:58:57,743] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\FetchTransactionHistoryList\\fetch_transaction_history_list.py', reloading
+[2016-01-14 22:58:57,868] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 22:58:58,289] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 22:58:58,289] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 23:01:41,654] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\Logout\\log_out.py', reloading
+[2016-01-14 23:01:41,763] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 23:01:42,171] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 23:01:42,171] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 23:02:05,086] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\OutletCheckin\\outlet_checkin.py', reloading
+[2016-01-14 23:02:05,148] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 23:02:05,571] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 23:02:05,571] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 23:03:26,019] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\PostReview\\post_review.py', reloading
+[2016-01-14 23:03:26,082] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 23:03:26,473] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 23:03:26,473] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 23:04:42,334] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\StoreLocator\\storelocator.py', reloading
+[2016-01-14 23:04:42,427] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 23:04:42,819] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 23:04:42,819] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-14 23:05:02,582] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_androidwebapp\\UpdateClientTable\\update_client_table.py', reloading
+[2016-01-14 23:05:02,690] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-14 23:05:03,065] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-14 23:05:03,082] {_internal.py:87} INFO -  * Debugger pin code: 205-156-564
+[2016-01-16 02:44:48,674] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 02:44:49,243] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 02:44:49,289] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 02:45:18,062] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-01-16 02:45:18,066] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:45:18] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2016-01-16 02:45:30,959] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:45:30] "POST /fetchstandardad HTTP/1.1" 200 -
+[2016-01-16 02:46:35,729] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:46:35] "POST /fetchstandardad HTTP/1.1" 200 -
+[2016-01-16 02:47:04,033] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-01-16 02:47:04,039] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:47:04] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2016-01-16 02:51:03,503] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:51:03] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2016-01-16 02:51:13,431] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 02:51:13] "POST /fetchstandardad HTTP/1.1" 200 -
+[2016-01-16 03:02:20,298] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\FetchPremiumAd\\fetch_premium_ad.py', reloading
+[2016-01-16 03:02:20,447] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 03:02:20,934] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 03:02:20,934] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 03:14:33,477] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\FetchStandardAd\\fetch_standard_ad.py', reloading
+[2016-01-16 03:14:33,684] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 03:14:34,223] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 03:14:34,223] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 11:00:41,602] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 11:00:42,009] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 11:00:42,025] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 11:00:56,404] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 11:00:56] "POST /fetchstandardad HTTP/1.1" 200 -
+[2016-01-16 11:01:21,197] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 11:01:21] "POST /fetchpremiumad HTTP/1.1" 200 -
+[2016-01-16 22:14:51,457] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 22:14:51,872] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 22:14:51,874] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 22:16:56,648] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 22:16:57,062] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 22:16:57,062] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 22:17:45,993] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 22:17:46,411] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 22:17:46,411] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 22:17:48,331] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:17:48] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:20:24,184] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-16 22:20:24,249] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 22:20:24,663] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 22:20:24,663] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 22:20:29,944] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-16 22:20:30,010] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 22:20:30,448] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 22:20:30,450] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-16 22:20:32,157] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:20:32] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:25:19,076] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:25:19] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:54,559] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:54] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:56,410] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:56] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:57,477] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:57] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:58,104] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:58] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:59,013] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:59] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:32:59,513] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:32:59] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 22:33:00,423] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 22:33:00] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 23:30:35,285] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 23:30:35] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 23:35:10,201] {_internal.py:87} INFO - 127.0.0.1 - - [16/Jan/2016 23:35:10] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-16 23:53:02,114] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-16 23:53:02,303] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-16 23:53:02,762] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-16 23:53:02,763] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-17 18:22:26,936] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-17 18:22:27,470] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-17 18:22:27,470] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-17 18:22:39,756] {_internal.py:87} INFO - 127.0.0.1 - - [17/Jan/2016 18:22:39] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-19 00:33:28,493] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-19 00:33:29,049] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-19 00:33:29,053] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-19 00:34:33,976] {_internal.py:87} INFO - 127.0.0.1 - - [19/Jan/2016 00:34:33] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-19 00:38:53,150] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-19 00:38:53,727] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-19 00:38:53,727] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-19 00:38:57,085] {_internal.py:87} INFO - 127.0.0.1 - - [19/Jan/2016 00:38:57] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-19 00:38:58,345] {_internal.py:87} INFO - 127.0.0.1 - - [19/Jan/2016 00:38:58] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-19 00:38:59,467] {_internal.py:87} INFO - 127.0.0.1 - - [19/Jan/2016 00:38:59] "POST /storelocator HTTP/1.1" 200 -
+[2016-01-19 00:39:25,121] {_internal.py:87} INFO - 127.0.0.1 - - [19/Jan/2016 00:39:25] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 21:52:10,303] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 21:52:11,428] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 21:52:11,428] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 21:57:14,904] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 21:57:14] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 21:57:57,884] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-21 21:57:58,276] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 21:57:58,901] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 21:57:58,901] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 21:58:01,826] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 21:58:01] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 21:59:20,424] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 21:59:20] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 22:00:02,816] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:00:02] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 22:00:40,437] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-21 22:00:40,500] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 22:00:40,953] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 22:00:40,953] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 22:00:43,763] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:00:43] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 22:00:49,739] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:00:49] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 22:07:06,792] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\createcustomer\\create_customer.py', reloading
+[2016-01-21 22:07:06,920] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 22:07:07,750] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 22:07:07,750] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 22:07:19,361] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\server.py', reloading
+[2016-01-21 22:07:19,471] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 22:07:20,025] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 22:07:20,026] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 22:09:48,032] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:09:48] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-21 22:13:47,688] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 22:13:48,178] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 22:13:48,180] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-21 22:13:50,306] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:13:50] "POST /LoadNotification HTTP/1.1" 200 -
+[2016-01-21 22:16:27,875] {_internal.py:87} INFO - 127.0.0.1 - - [21/Jan/2016 22:16:27] "POST /LoadNotification HTTP/1.1" 200 -
+[2016-01-21 22:50:13,299] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-21 22:50:13,957] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-21 22:50:13,957] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-24 00:01:39,674] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-24 00:01:40,513] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-24 00:01:40,516] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-24 00:02:06,325] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:02:06] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:02:38,355] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:02:38] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:05:13,585] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:05:13] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:05:32,378] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:05:32] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:10:09,246] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:10:09] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:11:37,286] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\verifyOTP\\verify_otp.py', reloading
+[2016-01-24 00:11:37,558] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-24 00:11:38,207] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-24 00:11:38,210] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-24 00:11:40,838] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:11:40] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:12:30,782] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\verifyOTP\\verify_otp.py', reloading
+[2016-01-24 00:12:30,851] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-24 00:12:31,434] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-24 00:12:31,434] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-24 00:12:35,650] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:12:35] "POST /createcustomer HTTP/1.1" 200 -
+[2016-01-24 00:13:06,243] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Documents\\whizzbuy_android_webapp\\API\\verifyOTP\\verify_otp.py', reloading
+[2016-01-24 00:13:06,312] {_internal.py:87} INFO -  * Restarting with stat
+[2016-01-24 00:13:06,884] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-01-24 00:13:06,885] {_internal.py:87} INFO -  * Debugger pin code: 197-654-348
+[2016-01-24 00:13:47,657] {_internal.py:87} INFO - 127.0.0.1 - - [24/Jan/2016 00:13:47] "POST /verifyotp HTTP/1.1" 200 -
+[2016-02-13 15:08:15,141] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 15:08:15,961] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 15:08:15,961] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651
+[2016-02-13 15:14:07,769] {connection.py:755} DEBUG - Start from server, version: 0.9, properties: {u'information': u'Licensed under the MPL.  See http://www.rabbitmq.com/', u'product': u'RabbitMQ', u'copyright': u'Copyright (C) 2007-2015 Pivotal Software, Inc.', u'capabilities': {u'exchange_exchange_bindings': True, u'connection.blocked': True, u'authentication_failure_close': True, u'basic.nack': True, u'per_consumer_qos': True, u'consumer_priorities': True, u'consumer_cancel_notify': True, u'publisher_confirms': True}, u'cluster_name': u'jaguar', u'platform': u'Erlang/OTP', u'version': u'3.5.6'}, mechanisms: [u'AMQPLAIN', u'PLAIN'], locales: [u'en_US']
+[2016-02-13 15:14:08,315] {connection.py:641} DEBUG - Open OK!
+[2016-02-13 15:14:08,315] {channel.py:82} DEBUG - using channel_id: 1
+[2016-02-13 15:14:08,582] {channel.py:440} DEBUG - Channel open
+[2016-02-13 15:14:09,838] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 15:14:09,983] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 15:14:10,141] {server.py:45} ERROR - Page not found: /forgotpasswordOTPgen
+[2016-02-13 15:14:10,171] {server.py:45} ERROR - Page not found: /forgotpasswordsetnew
+[2016-02-13 15:14:10,186] {server.py:45} ERROR - Page not found: /forgotpasswordverifyOTP
+[2016-02-13 15:14:10,296] {server.py:45} ERROR - Page not found: /merchantfetchmetrics
+[2016-02-13 15:14:10,421] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 15:14:10,436] {server.py:45} ERROR - Page not found: /recordtransaction
+[2016-02-13 15:14:10,451] {server.py:45} ERROR - Page not found: /registeroutlet
+[2016-02-13 15:14:11,084] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 15:33:28,822] {_internal.py:87} INFO - 127.0.0.1 - - [13/Feb/2016 15:33:28] "POST /FetchProfileImage HTTP/1.1" 200 -
+[2016-02-13 15:36:19,148] {_internal.py:87} INFO - 127.0.0.1 - - [13/Feb/2016 15:36:19] "POST /fetchcustomerlifestyle HTTP/1.1" 200 -
+[2016-02-13 15:45:22,861] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Desktop\\whizzbuy_android_webapp\\server.py', reloading
+[2016-02-13 15:45:22,954] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 15:45:23,529] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 15:45:23,529] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651
+[2016-02-13 15:45:28,099] {_internal.py:87} INFO - 127.0.0.1 - - [13/Feb/2016 15:45:28] "POST /FetchProfileImage HTTP/1.1" 200 -
+[2016-02-13 15:45:49,048] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Desktop\\whizzbuy_android_webapp\\server.py', reloading
+[2016-02-13 15:45:49,127] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 15:45:49,736] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 15:45:49,736] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651
+[2016-02-13 15:46:58,540] {_internal.py:87} INFO -  * Detected change in 'C:\\Users\\Pritish\\Desktop\\whizzbuy_android_webapp\\server.py', reloading
+[2016-02-13 15:46:58,602] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 15:51:27,904] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 15:51:27,918] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 15:51:27,982] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 15:51:28,029] {server.py:45} ERROR - Page not found: /forgotpasswordOTPgen
+[2016-02-13 15:51:28,029] {server.py:45} ERROR - Page not found: /forgotpasswordsetnew
+[2016-02-13 15:51:28,043] {server.py:45} ERROR - Page not found: /forgotpasswordverifyOTP
+[2016-02-13 15:51:28,075] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 15:51:28,075] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 15:51:28,091] {server.py:45} ERROR - Page not found: /merchantfetchmetrics
+[2016-02-13 15:51:28,184] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 15:51:28,184] {server.py:45} ERROR - Page not found: /recordtransaction
+[2016-02-13 15:51:28,200] {server.py:45} ERROR - Page not found: /registeroutlet
+[2016-02-13 15:51:28,559] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 15:53:01,321] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 15:53:01,999] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 15:53:01,999] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651
+[2016-02-13 15:53:03,608] {_internal.py:87} INFO - 127.0.0.1 - - [13/Feb/2016 15:53:03] "POST /FetchProfileImage HTTP/1.1" 200 -
+[2016-02-13 15:57:32,651] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 15:57:32,683] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 15:57:32,736] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 15:57:32,766] {server.py:45} ERROR - Page not found: /forgotpasswordOTPgen
+[2016-02-13 15:57:32,782] {server.py:45} ERROR - Page not found: /forgotpasswordsetnew
+[2016-02-13 15:57:32,799] {server.py:45} ERROR - Page not found: /forgotpasswordverifyOTP
+[2016-02-13 15:57:32,829] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 15:57:32,829] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 15:57:32,845] {server.py:45} ERROR - Page not found: /merchantfetchmetrics
+[2016-02-13 15:57:32,970] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 15:57:32,986] {server.py:45} ERROR - Page not found: /recordtransaction
+[2016-02-13 15:57:33,002] {server.py:45} ERROR - Page not found: /registeroutlet
+[2016-02-13 15:57:33,563] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 15:59:24,700] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 15:59:24,733] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 15:59:24,795] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 15:59:24,842] {server.py:45} ERROR - Page not found: /forgotpasswordOTPgen
+[2016-02-13 15:59:24,842] {server.py:45} ERROR - Page not found: /forgotpasswordsetnew
+[2016-02-13 15:59:24,858] {server.py:45} ERROR - Page not found: /forgotpasswordverifyOTP
+[2016-02-13 15:59:24,872] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 15:59:24,888] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 15:59:24,904] {server.py:45} ERROR - Page not found: /merchantfetchmetrics
+[2016-02-13 15:59:24,983] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 15:59:24,983] {server.py:45} ERROR - Page not found: /recordtransaction
+[2016-02-13 15:59:24,997] {server.py:45} ERROR - Page not found: /registeroutlet
+[2016-02-13 15:59:25,355] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:04:00,483] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:04:00,522] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:04:00,545] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:04:00,779] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:04:00,805] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:04:00,930] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:04:01,680] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:06:19,138] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:06:19,154] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:06:19,186] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:06:19,358] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:06:19,358] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:06:19,420] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:06:19,825] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:06:20,029] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 21:06:20,654] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:06:20,717] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:06:20,747] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:06:20,826] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:06:20,826] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:06:20,874] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:07:11,448] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:07:11,496] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 21:07:11,496] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651
+[2016-02-13 21:07:14,404] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:07:14,420] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:07:14,450] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:07:14,591] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:07:14,607] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:07:14,670] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:08:06,411] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:08:06,473] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 21:08:07,095] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:08:07,127] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:08:07,142] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:08:07,220] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:08:07,236] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:08:07,282] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:08:58,635] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:08:58,651] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:08:58,683] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:08:58,760] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:08:58,760] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:08:58,808] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:08:59,260] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:08:59,385] {_internal.py:87} INFO -  * Restarting with stat
+[2016-02-13 21:08:59,990] {change_password.py:113} ERROR - Password is incorrect
+[2016-02-13 21:09:00,006] {fetch_premium_ad.py:76} ERROR - No ads found
+[2016-02-13 21:09:00,038] {fetch_standard_ad.py:75} ERROR - No ads found
+[2016-02-13 21:09:00,115] {login.py:96} ERROR - Account is already logged in
+[2016-02-13 21:09:00,115] {log_out.py:74} ERROR - Customer not logged in
+[2016-02-13 21:09:00,163] {post_review.py:105} ERROR - (1242, 'Subquery returns more than 1 row')
+[2016-02-13 21:09:51,664] {verify_otp.py:152} ERROR - local variable 'values' referenced before assignment
+[2016-02-13 21:09:51,743] {_internal.py:87} WARNING -  * Debugger is active!
+[2016-02-13 21:09:51,743] {_internal.py:87} INFO -  * Debugger pin code: 305-579-651

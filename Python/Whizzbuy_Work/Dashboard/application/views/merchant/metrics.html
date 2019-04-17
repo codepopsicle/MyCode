@@ -1,0 +1,134 @@
+<?php require 'base.php' ?>
+
+<?php
+      if(isset($records))
+        foreach ($records as $row) 
+        {
+          $companyname = $row->companyname;
+          $brandname = $row->brandname;
+          $merchantcode = $row->merchantcode;
+        }
+
+?>
+    <?php startblock('sidebar') ?>
+        <!-- BEGIN SIDEBAR -->
+            <div class="page-sidebar-wrapper">
+                <!-- END SIDEBAR -->
+                <!-- DOC: Set data-auto-scroll="false" to disable the sidebar from auto scrolling/focusing -->
+                <!-- DOC: Change data-auto-speed="200" to adjust the sub menu slide up/down speed -->
+                <div class="page-sidebar navbar-collapse collapse">
+                    <!-- BEGIN SIDEBAR MENU -->
+                    <!-- DOC: Apply "page-sidebar-menu-light" class right after "page-sidebar-menu" to enable light sidebar menu style(without borders) -->
+                    <!-- DOC: Apply "page-sidebar-menu-hover-submenu" class right after "page-sidebar-menu" to enable hoverable(hover vs accordion) sub menu mode -->
+                    <!-- DOC: Apply "page-sidebar-menu-closed" class right after "page-sidebar-menu" to collapse("page-sidebar-closed" class must be applied to the body element) the sidebar sub menu mode -->
+                    <!-- DOC: Set data-auto-scroll="false" to disable the sidebar from auto scrolling/focusing -->
+                    <!-- DOC: Set data-keep-expand="true" to keep the submenues expanded -->
+                    <!-- DOC: Set data-auto-speed="200" to adjust the sub menu slide up/down speed -->
+                    <ul class="page-sidebar-menu  page-header-fixed page-sidebar-menu-hover-submenu " data-keep-expanded="false" data-auto-scroll="true" data-slide-speed="200">
+                        <li class="nav-item  ">
+                            <a href="<?php echo base_url('index.php/merchant/dashboard') ?>" class="nav-link nav-toggle">
+                                <i class="icon-home"></i>
+                                <span class="title">Dashboard</span>
+                                <span class="arrow"></span>
+                            </a>
+                        </li>
+                         <li class="nav-item active open ">
+                            <a href="javascript:;" class="nav-link nav-toggle">
+                                <i class="icon-bar-chart"></i>
+                                <span class="title">Metrics</span>
+                                <span class="arrow"></span>
+                            </a>
+                            <ul class="sub-menu">
+                                <li class="nav-item  ">
+                                    <a href="<?php echo base_url('index.php/merchant/ad_metrics') ?>" class="nav-link nav-toggle">
+                                        <span class="title">Advetisement 
+                                        <br> Metrics</span>
+                                    </a>
+                                </li>
+                                <li class="nav-item  ">
+                                    <a href="<?php echo base_url('index.php/merchant/performance_metrics') ?>" class="nav-link nav-toggle">
+                                        <span class="title">Performance
+                                        <br> Metrics</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                         <li class="nav-item ">
+                            <a href="<?php echo base_url('index.php/merchant/transactions') ?>" class="nav-link nav-toggle">
+                                <i class="icon-credit-card"></i>
+                                <span class="title">Transactions</span>
+                                <span class="arrow"></span>
+                            </a>
+                        </li>
+                         <li class="nav-item active open">
+                            <a href="<?php echo base_url('index.php/merchant/qrcode') ?>" class="nav-link nav-toggle">
+                                <i class="icon-notebook"></i>
+                                <span class="title">QR Code</span>
+                                <span class="arrow"></span>
+                            </a>
+                        </li>
+                         <li class="nav-item  ">
+                            <a href="<?php echo base_url('index.php/merchant/myoutlets') ?>" class="nav-link nav-toggle">
+                                <i class="icon-users"></i>
+                                <span class="title">My Outlets</span>
+                                <span class="arrow"></span>
+                            </a>
+                        </li>
+                        <li class="nav-item ">
+                            <a href="javascript:;" class="nav-link nav-toggle">
+                                <i class="icon-diamond"></i>
+                                <span class="title">Advertisements</span>
+                                <span class="arrow"></span>
+                            </a>
+                            <ul class="sub-menu">
+                                <li class="nav-item">
+                                    <a href="<?php echo base_url('index.php/merchant/ad_pending') ?>" class="nav-link ">
+                                        <span class="title">Premium Ads</span>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="<?php echo base_url('index.php/merchant/ad_pending') ?>" class="nav-link ">
+                                        <span class="title">Standard Ads</span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <!-- END SIDEBAR MENU -->
+                </div>
+                <!-- END SIDEBAR -->
+            </div>
+    <?php endblock() ?>
+
+    <?php startblock('content') ?>
+    <!-- BEGIN CONTENT -->
+        <h3 class="page-title">QR Code</h3>
+             <div class="page-bar">
+                <ul class="page-breadcrumb">
+                    <li>
+                        <i class="icon-home"></i>
+                        <a href="index.html">Home</a>
+                        <i class="fa fa-angle-right"></i>
+                    </li>
+                    <li>
+                        <span>QR Code</span>
+                    </li>
+                </ul>
+            </div>
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="portlet light portlet-fit ">
+                                <div class="portlet-title">
+                                    <div class="caption">
+                                        <i class=" icon-layers font-green"></i>
+                                        <span class="caption-subject font-green bold uppercase">Merchant ID : <?php echo "string";?></span>
+                                    </div>
+                                </div>
+                                <div class="portlet-body">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+    <?php endblock() ?>

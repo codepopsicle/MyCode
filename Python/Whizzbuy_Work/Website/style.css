@@ -1,0 +1,158 @@
+
+body{
+background-color:#CCCCCC;
+
+}
+
+p{
+   font-family: "Open Sans Condensed",sans-serif;
+   font-size:14px;
+   color:#2E2E2E; 
+
+}
+
+b, strong {
+    font-weight: bolder;
+}
+
+h1 {
+    font-family: "Open Sans Condensed",sans-serif;
+    font-size: 27px;
+    font-weight: 300;
+    line-height: 1;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family: "Open Sans",sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+	line-height:1.4;
+    text-transform: uppercase;
+}
+
+h5 {
+    color: #404040;
+    font-family: "Open Sans",sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.box-shape{
+	background: #fff;
+    box-sizing: content-box;
+    height: auto;
+    padding: 20px;
+    width: 700px;
+	margin: 0 auto;
+}
+
+.logo{
+height:50px;
+width:200px;
+
+}
+
+.icon{
+	float:right;
+	height:20px;
+	width:20px;
+	padding:4px;
+}
+
+.hline{
+	border-bottom: 2px solid #F3F3F3;
+    height: auto;
+    opacity: 1;
+}
+
+.space40{
+margin-top:40px;
+
+}
+
+.space50{
+margin-top:50px;
+
+}
+
+.space30{
+margin-top:30px;
+
+}
+
+.space20{
+margin-top:20px;
+
+}
+
+
+
+.ntext{
+	text-align:center;
+	color: #6C6C6C;
+    font-family: "Open Sans",sans-serif;
+    font-size: 11px;
+    font-weight: bolder;
+	margin-top:100px;
+
+}
+
+.vtext{
+	text-align:center;
+	color: #252525;
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+	
+	
+}
+
+.ptext{
+	text-align:center;
+	color: #252525;
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+    font-weight: bolder;
+	
+	
+}
+
+.stext{
+	text-align:center;
+	color: #252525;
+    font-family: "Open Sans",sans-serif;
+    font-size: 11px;
+	margin-top:20px;
+    
+	
+	
+}
+
+
+.footer{
+    height: 200px;
+    padding: 20px;
+    width: 700px;
+	margin: 0 auto;
+	
+	list-style-type: none;
+}
+
+
+#navcontainer ul
+{
+margin: 0;
+padding: 0;
+list-style-type: none;
+text-align: center;
+word-spacing:20px;
+}
+
+#navcontainer ul li { display: inline; }
+
+#navcontainer ul li a
+{
+text-decoration: none;
+}
